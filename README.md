@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+[<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
   <img src="https://giphy.com/embed/ijEiXYEo9DBxm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
-
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHduazUwYWFsajZnMmMybGFxdnR6ZTVyc25xMTVseXExbXZrcW8ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ijEiXYEo9DBxm/giphy.gif)
