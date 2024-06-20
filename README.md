@@ -2,7 +2,7 @@
 <div>
 - 👋 Hi, I’m Dương Thái Bảo <br>
 - 👀 I’m interested in Technology  <br>
-- 🌱 I’m currently learning Java, Html, Css, Javascipt  <br>
+- 🌱 I’m currently learning Java, SQL and Javascipt  <br>
 - 🏫 I’m learning at FPT Polytechnic  <br>
 - 😄 Hobbies: Music, Movie  <br>
 - ⚡ Fun fact: You can called me Tybao  <br>
