@@ -30,8 +30,7 @@
 <hr>
 
 <div>
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdsNHd2ZjVocm51NXB3eGowODg2aTNtY2VkaDl2ejFnN2QxNWh1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kigfYxdEa5s1ziA2h1/giphy.gif" width="50px"  height="50px">
-  Front end shopping web: Bootstrap 5, AngularJS
+  
    
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
    <span> => </span>
@@ -39,6 +38,7 @@
      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1bzd1a29ucm13MjRnbDB0dHA2aHA5M20wNTQ0cGhybjY1NjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9mkbc1QkvBnHthaQp/giphy.gif" width="100px"  height="100px">
    <a/>
       <span> <= </span>
+         Front end shopping web: Bootstrap 5, AngularJS
 </div>
 
 
