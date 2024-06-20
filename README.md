@@ -29,5 +29,20 @@
   Front end shopping web: Bootstrap 5, AngularJS
 </div>
 
+<script>
+        document.getElementById('gmail').addEventListener('click', function(event) {
+            //event.preventDefault(); 
+            var email = "email@example.com"; 
+
+            var tempInput = document.createElement('input');
+            tempInput.value = email;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempInput);
+
+            alert('Địa chỉ email đã được sao chép vào clipboard: ' + email);
+        });
+    </script>
 
 <html/>
