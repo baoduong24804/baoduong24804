@@ -17,7 +17,7 @@
      height="100px">
   <a/>
     
-  <a id="gmail">
+  <a href="https://anotepad.com/notes/dmk628d8">
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg4Zmgyejl2cHM3ajNmdWNjcG5nd3k3MXN6OGk3bTl6azZtYm15NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFQpS0Pp3FW638MSf6/giphy.gif" width="100px" 
     height="100px">
   <a/>
@@ -28,21 +28,5 @@
 <div>
   Front end shopping web: Bootstrap 5, AngularJS
 </div>
-
-<script>
-        document.getElementById('gmail').addEventListener('click', function(event) {
-            //event.preventDefault(); 
-            var email = "email@example.com"; 
-
-            var tempInput = document.createElement('input');
-            tempInput.value = email;
-            document.body.appendChild(tempInput);
-            tempInput.select();
-            document.execCommand('copy');
-            document.body.removeChild(tempInput);
-
-            alert('Địa chỉ email đã được sao chép vào clipboard: ' + email);
-        });
-    </script>
 
 <html/>
