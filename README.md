@@ -1,7 +1,5 @@
 <html>
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-   
- </div>
+  
 <div>
 - 👋 Hi, I’m Dương Thái Bảo <br>
 - 👀 I’m interested in Technology  <br>
@@ -9,8 +7,11 @@
 - 🏫 I’m learning at FPT Polytechnic  <br>
 - 😄 Hobbies: Music, Movie  <br>
 - ⚡ Fun fact: You can called me Tybao  <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM4eXFqeHFtNzd0M2dvMmxtNzlzYnZzYnVreDJoc3d0MzZxc3UwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKpIEiPZs2eaBQH6Cg/giphy.gif" width="100px" 
+  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM4eXFqeHFtNzd0M2dvMmxtNzlzYnZzYnVreDJoc3d0MzZxc3UwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKpIEiPZs2eaBQH6Cg/giphy.gif" width="100px" 
     height="100px">
+ </div>
+  
 </div>
 
 <hr>
