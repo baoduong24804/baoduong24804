@@ -28,7 +28,7 @@
 </div>
   
 <hr>
-<h3><strong>Some Project by me</strong></h3>
+<h1><strong style="color:aqua;">Some of my Projects</strong></h1>
 <div>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
