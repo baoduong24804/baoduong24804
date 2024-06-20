@@ -31,7 +31,8 @@
 
 <div>
   Front end shopping web: Bootstrap 5, AngularJS
-   <p> => </p>
+   <br>
+   <span> => </span>
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
    
    <a href="https://github.com/baoduong24804/web_ban_hang">
