@@ -16,6 +16,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHduazUwYWFsajZnMmMybGFxdnR6ZTVyc25xMTVseXExbXZrcW8ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ijEiXYEo9DBxm/giphy.gif" width="50px" height="50px"></img>
   <a/>
 </div>
+<hr>
+<div>
+  Front end shopping web: Bootstrap 5, AngularJS
+</div>
 
 
 <html/>
