@@ -63,7 +63,6 @@
 ###
 
 <p align="left">💼 Project</p>
-<h1><strong>Some of my Projects</strong></h1>
 <div>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
