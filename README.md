@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+  
 </head>
 <body>
 <p align="left">👋 Hi, I’m Dương Thái Bảo<br>👀 I’m interested in Technology<br>🌱 I’m currently learning Java, JavaScript, Node...<br>🏫 I’m learning at FPT Polytechnic<br>😄 Hobbies: Music, Movie<br>⚡ Fun fact: You can called me Tybao</p>
