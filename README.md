@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"></a>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -119,14 +119,6 @@
 </div>
 
 ###
-
-
-<div class="card-body" style="border: 2px solid white;">
-    <h5 class="card-title">Tên Dự Án</h5>
-    <p class="card-text">Mô tả ngắn gọn về dự án của bạn, những tính năng chính hoặc mục tiêu.</p>
-    <a href="https://link-den-du-an-cua-ban.com" class="btn btn-primary">Xem Dự Án</a>
-</div>
-
   
 
 </body>
