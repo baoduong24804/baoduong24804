@@ -66,11 +66,6 @@
 
 ###
 
-<a href="https://github.com/baoduong24804/Management-Course">
-  
-  <img align="center" src="https://camo.githubusercontent.com/82844cfc85d92b325ff4620d3e0729c645f090a3abd308b73012c8b689e03815/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d5472616e56754769616e67267265706f3d416d7468756373696e687669656e267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=baoduong24804&amp;repo=Management-Course&amp;theme=radical" style="max-width: 100%;">
-</a>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baoduong24804&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baoduong24804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
