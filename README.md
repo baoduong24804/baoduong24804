@@ -69,7 +69,7 @@
    <a href="https://github.com/baoduong24804/asm_jv5">
      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1bzd1a29ucm13MjRnbDB0dHA2aHA5M20wNTQ0cGhybjY1NjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9mkbc1QkvBnHthaQp/giphy.gif" width="100px"  height="100px">
    <a/>
-      <span><strong> <== Online Film: Spring boot, Jquery, JqueryUI, Bootstrap 5</strong></span>
+      <span style="align:center;"><strong> <== Online Film: Spring boot, Jquery, JqueryUI, Bootstrap 5</strong></span>
 </div>
   
    
