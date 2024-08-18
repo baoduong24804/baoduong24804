@@ -120,15 +120,13 @@
 
 ###
 
- <div class="container mt-5">
-    <div class="card" style="width: 18rem;">
-        <div class="card-body">
-            <h5 class="card-title">Tên Dự Án</h5>
-            <p class="card-text">Mô tả ngắn gọn về dự án của bạn, những tính năng chính hoặc mục tiêu.</p>
-            <a href="https://link-den-du-an-cua-ban.com" class="btn btn-primary">Xem Dự Án</a>
-        </div>
-    </div>
+
+<div class="card-body" style="border: 2px solid black;">
+    <h5 class="card-title">Tên Dự Án</h5>
+    <p class="card-text">Mô tả ngắn gọn về dự án của bạn, những tính năng chính hoặc mục tiêu.</p>
+    <a href="https://link-den-du-an-cua-ban.com" class="btn btn-primary">Xem Dự Án</a>
 </div>
+
   
 
 </body>
