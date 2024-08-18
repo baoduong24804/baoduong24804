@@ -1,5 +1,8 @@
 <html>
-
+<head>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
 <p align="left">👋 Hi, I’m Dương Thái Bảo<br>👀 I’m interested in Technology<br>🌱 I’m currently learning Java, JavaScript, Node...<br>🏫 I’m learning at FPT Polytechnic<br>😄 Hobbies: Music, Movie<br>⚡ Fun fact: You can called me Tybao</p>
 
 ###
@@ -117,9 +120,18 @@
 
 ###
 
- 
+ <div class="container mt-5">
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Tên Dự Án</h5>
+            <p class="card-text">Mô tả ngắn gọn về dự án của bạn, những tính năng chính hoặc mục tiêu.</p>
+            <a href="https://link-den-du-an-cua-ban.com" class="btn btn-primary">Xem Dự Án</a>
+        </div>
+    </div>
+</div>
   
 
-
-
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.min.js"></script>
+</body>
 <html/>
