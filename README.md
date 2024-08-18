@@ -77,10 +77,11 @@
   
    
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <span><strong> <== Front end shopping web: Bootstrap 5, AngularJS</strong></span>
    <a href="https://github.com/baoduong24804/web_ban_hang">
      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1bzd1a29ucm13MjRnbDB0dHA2aHA5M20wNTQ0cGhybjY1NjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9mkbc1QkvBnHthaQp/giphy.gif" width="100px"  height="100px">
    <a/>
-      <span><strong> <== Front end shopping web: Bootstrap 5, AngularJS</strong></span>
+      
 </div>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
