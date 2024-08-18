@@ -12,11 +12,11 @@
          <a style="text-decoration: none;" href="https://www.facebook.com/profile.php?id=100034629843166">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
    </a>
-      <div>
+      <span>
                <a style="text-decoration: none;" href="https://anotepad.com/notes/dmk628d8">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
    </a>
-      </div>
+      </span>
 
 
 </div>
