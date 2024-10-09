@@ -3,7 +3,7 @@
   
 </head>
 <body>
-<p align="left">👋 Hi, I’m Duong Thai Bao<br>👀 I’m interested in Technology<br>🌱 I’m currently learning Java, JavaScript, Node...<br>🏫 I’m learning at FPT Polytechnic<br>😄 Hobbies: Music, Movie<br>⚡ Fun fact: You can called me Tybao</p>
+<p align="left">👋 Hi, I’m Duong Thai Bao<br>👀 I’m interested in Technology<br>🌱 I’m currently learning Java, JavaScript, Node...<br>🏫 I’m learning at FPT Polytechnic<br>😄 Hobbies: Music, Movie
 
 <hr>
 
